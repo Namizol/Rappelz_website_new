@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1709209200000",
+    "platform": "client",
+    "version": "9.1.0",
+    "file_name": "rappelz-client-9.1.0.exe",
+    "file_size": 10737418240,
+    "uploaded_at": "2024-03-01T00:00:00.000Z",
+    "is_active": true,
+    "download_url": "https://download.rappelz.com/client/rappelz-client-9.1.0.exe"
+  },
+  {
+    "id": "1709209300000",
+    "platform": "launcher",
+    "version": "1.2.0", 
+    "file_name": "rappelz-launcher-1.2.0.exe",
+    "file_size": 3145728,
+    "uploaded_at": "2024-03-01T00:01:40.000Z",
+    "is_active": true,
+    "download_url": "https://download.rappelz.com/launcher/rappelz-launcher-1.2.0.exe"
+  },
+  {
+    "id": "1709209400000",
+    "platform": "luminacore",
+    "version": "2.0.0",
+    "file_name": "luminacore-2.0.0.exe",
+    "file_size": 10485760,
+    "uploaded_at": "2024-03-01T00:03:20.000Z",
+    "is_active": true,
+    "download_url": "https://download.rappelz.com/luminacore/luminacore-2.0.0.exe"
+  }
+]
