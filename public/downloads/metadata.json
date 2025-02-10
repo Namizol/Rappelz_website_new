@@ -3,21 +3,21 @@
     "id": "1709209200000",
     "platform": "client",
     "version": "9.1.0",
-    "file_name": "rappelz-client-9.1.0.exe",
-    "file_size": 10737418240,
+    "file_name": "echo_der_ewigkeit.rar",
+    "file_size": 30900000000,
     "uploaded_at": "2024-03-01T00:00:00.000Z",
     "is_active": true,
-    "download_url": "https://download.rappelz.com/client/rappelz-client-9.1.0.exe"
+    "download_url": "https://drive.google.com/file/d/11025g4c_lVawkP0Db-H9Vi5oqhDSTjyr/view?usp=drive_link"
   },
   {
     "id": "1709209300000",
     "platform": "launcher",
     "version": "1.2.0", 
-    "file_name": "rappelz-launcher-1.2.0.exe",
-    "file_size": 3145728,
+    "file_name": "launcher.rar",
+    "file_size": 1,
     "uploaded_at": "2024-03-01T00:01:40.000Z",
     "is_active": true,
-    "download_url": "https://download.rappelz.com/launcher/rappelz-launcher-1.2.0.exe"
+    "download_url": "https://drive.google.com/file/d/1M5ZlqZJMfUhvnEi41frQlAzDCsXkL11g/view?usp=sharing"
   },
   {
     "id": "1709209400000",
