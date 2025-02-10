@@ -41,7 +41,7 @@ export const translations = {
     alreadyHaveAccount: 'Already have an account?',
 
     // Home
-    welcomeTitle: 'Welcome to Rappelz',
+    welcomeTitle: 'Welcome to Echo of Eternity',
     welcomeDescription: 'Embark on an epic journey in a world of magic and adventure. Join millions of players in this legendary MMORPG.',
     playNow: 'Play Now',
     gameFeatures: 'Game Features',
@@ -197,7 +197,7 @@ export const translations = {
     // Footer
     termsOfService: 'Terms of Service',
     privacyPolicy: 'Privacy Policy',
-    copyright: '© 2024 Rappelz. All rights reserved.',
+    copyright: '© 2025 Echo of Eternity. All rights reserved.',
 
     // Cookie Consent
     cookieMessage: 'We use cookies to enhance your gaming experience and provide personalized content. By using our website, you agree to our',
@@ -246,7 +246,7 @@ export const translations = {
     alreadyHaveAccount: 'Bereits ein Konto?',
 
     // Home
-    welcomeTitle: 'Willkommen bei Rappelz',
+    welcomeTitle: 'Willkommen bei Echo der Ewigkeit',
     welcomeDescription: 'Begib dich auf eine epische Reise in eine Welt voller Magie und Abenteuer. Schließe dich Millionen von Spielern in diesem legendären MMORPG an.',
     playNow: 'Jetzt spielen',
     gameFeatures: 'Spielfeatures',
@@ -326,8 +326,8 @@ export const translations = {
 
     // FAQ
     frequentlyAskedQuestions: 'Häufig gestellte Fragen',
-    faqQuestion1: 'Wie setze ich mein Passwort zurück?',
-    faqAnswer1: 'Um dein Passwort zurückzusetzen, klicke auf den Link "Passwort vergessen" auf der Login-Seite und folge den Anweisungen, die an deine E-Mail gesendet werden.',
+   // faqQuestion1: 'Wie setze ich mein Passwort zurück?',
+    //faqAnswer1: 'Um dein Passwort zurückzusetzen, klicke auf den Link "Passwort vergessen" auf der Login-Seite und folge den Anweisungen, die an deine E-Mail gesendet werden.',
     faqQuestion2: 'Was sind die Systemanforderungen?',
     faqAnswer2: 'Die Mindestanforderungen sind: Windows 10, 8GB RAM, DirectX 11 kompatible Grafikkarte und 20GB freier Festplattenspeicher.',
     faqQuestion3: 'Wie trete ich einer Gilde bei?',
@@ -403,7 +403,7 @@ export const translations = {
     // Footer
     termsOfService: 'Nutzungsbedingungen',
     privacyPolicy: 'Datenschutzerklärung',
-    copyright: '© 2024 Rappelz. Alle Rechte vorbehalten.',
+    copyright: '© 2025 Echo der Ewigkeit. Alle Rechte vorbehalten.',
 
     // Cookie Consent
     cookieMessage: 'Wir verwenden Cookies, um dein Spielerlebnis zu verbessern und personalisierte Inhalte bereitzustellen. Durch die Nutzung unserer Website stimmst du unserer',

@@ -73,7 +73,7 @@ function App() {
             onClick={() => handleNavigate('home')}
             aria-label="Go to home page"
           >
-            RAPPELZ
+            Echo der Ewigkeit
           </button>
           <div className="flex gap-6 items-center">
             <NavButton active={currentPage === 'home'} onClick={() => handleNavigate('home')}>
@@ -266,7 +266,7 @@ function App() {
       <footer className="bg-black py-10">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <div className="text-2xl font-bold text-yellow-500 mb-4 md:mb-0">RAPPELZ</div>
+            <div className="text-2xl font-bold text-yellow-500 mb-4 md:mb-0">Echo der Ewigkeit</div>
             <div className="flex gap-6">
               <button className="text-gray-400 hover:text-white transition">
                 {t('termsOfService')}
